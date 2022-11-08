@@ -1,2 +1,2 @@
-# Carousel Slide Code
+# Carousel Slideshow Code/program
 ## Zuri Task
